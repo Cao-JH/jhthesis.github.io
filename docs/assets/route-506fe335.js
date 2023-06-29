@@ -1,1 +1,0 @@
-import{z as o}from"./index-e734480e.js";function e(t){return o({url:"/api/route/",method:"post",data:t})}function u(t){return o({url:"/api/route/add",method:"post",data:t})}function a(t){return o({url:"/api/route/del",method:"post",data:t})}export{u as a,a as d,e as r};
