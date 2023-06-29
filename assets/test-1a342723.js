@@ -1,0 +1,1 @@
+import{_ as n}from"./_plugin-vue_export-helper-c27b6911.js";import{J as s,d as a,e as c}from"./index-29034bfe.js";const p=s({beforeRouteEnter(r,e,t){t(o=>{o.$router.replace(e.path)})}});function f(r,e,t,o,_,d){return a(),c("div")}const u=n(p,[["render",f]]);export{u as default};
